@@ -5,6 +5,7 @@ extends Node2D
 
 const player = preload("res://personagens/jogador.tscn")
 func _ready() -> void:
+	#Carregando os personagens de forma automática
 	var p1 = player.instantiate()
 	add_child(p1)
 	p1.position.x= 39

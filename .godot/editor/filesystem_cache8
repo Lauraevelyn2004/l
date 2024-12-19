@@ -1,11 +1,11 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1734613729
+::res://::1734615456
 button_1.gd::GDScript::-1::1734604131::0::1::::<>Button<>::
 button_2.gd::GDScript::-1::1734606011::0::1::::<>Button<>::
 button_3.gd::GDScript::-1::1734606011::0::1::::<>Button<>::
 escolha_fases.tscn::PackedScene::7840742035071562184::1734612617::0::1::::<><>::uid://dqbpspuf4onrj::::res://assets/assets/Designer (5).jpeg<>res://button_1.gd<>res://button_2.gd<>res://button_3.gd
 fases.gd::GDScript::-1::1734604131::0::1::::<>Button<>::
-fase_04.gd::GDScript::-1::1734612210::0::1::::<>Node2D<>::
+fase_04.gd::GDScript::-1::1734613755::0::1::::<>Node2D<>::
 icon.svg::CompressedTexture2D::6713659804280349093::1734604131::1734604153::1::::<><>::
 menu.tscn::PackedScene::7115822594169138632::1734612617::0::1::::<><>::res://play.gd<>uid://dbcqmet4aylts::::res://assets/assets/Designer (4).jpeg<>uid://dx8inia063p23::::res://assets/assets/play.jpg<>uid://djhnolnbucf26::::res://assets/assets/store.jpg<>uid://c0670syoia4se::::res://assets/assets/fases.jpg<>res://fases.gd
 play.gd::GDScript::-1::1734604131::0::1::::<>Button<>::
@@ -362,10 +362,10 @@ Jump (32 x 32).png::CompressedTexture2D::3473533283576020116::1734604129::173460
 Landing (32 x 32).png::CompressedTexture2D::2204585832796045992::1734604129::1734604153::1::::<><>::
 Running (32 x 32).png::CompressedTexture2D::2076240211461523039::1734604129::1734604153::1::::<><>::
 Victory_Pose (32 x 32).png::CompressedTexture2D::7304522707628805173::1734604129::1734604153::1::::<><>::
-::res://levels/::1734612620
+::res://levels/::1734613755
 camera.gd::GDScript::-1::1734604131::0::1::::<>Camera2D<>::
 camera_2d.gd::GDScript::-1::1734611290::0::1::::<>Camera2D<>::
-fase_01.tscn::PackedScene::7218332161525457743::1734612619::0::1::::<><>::uid://c3ydvvdkdqakn::::res://personagens/hud.tscn<>res://scripts/fase_01.gd<>uid://7ju4bfogam24::::res://assets/assets/fundo/fundo floresta.jpg<>uid://i1xwkqapfabe::::res://personagens/inimigo.tscn<>uid://dit3bwg0gyvob::::res://personagens/portal.tscn<>uid://48vicba0jlpy::::res://personagens/moeda.tscn<>uid://gjnojeymrltj::::res://assets/assets/fundo/Designer (12).jpeg
+fase_01.tscn::PackedScene::7218332161525457743::1734613755::0::1::::<><>::uid://c3ydvvdkdqakn::::res://personagens/hud.tscn<>res://scripts/fase_01.gd<>uid://7ju4bfogam24::::res://assets/assets/fundo/fundo floresta.jpg<>uid://i1xwkqapfabe::::res://personagens/inimigo.tscn<>uid://dit3bwg0gyvob::::res://personagens/portal.tscn<>uid://48vicba0jlpy::::res://personagens/moeda.tscn<>uid://gjnojeymrltj::::res://assets/assets/fundo/Designer (12).jpeg
 fase_02.gd::GDScript::-1::1734610188::0::1::::<>Node2D<>::
 fase_02.tscn::PackedScene::6705149257607100909::1734612619::0::1::::<><>::res://levels/fase_02.gd<>uid://c3ydvvdkdqakn::::res://personagens/hud.tscn<>uid://1c1kdcl8p2b6::::res://assets/assets/fundo/fundo floresta green.jpg<>uid://48vicba0jlpy::::res://personagens/moeda.tscn<>uid://i1xwkqapfabe::::res://personagens/inimigo.tscn<>uid://dit3bwg0gyvob::::res://personagens/portal.tscn
 fase_03.gd::GDScript::-1::1734610188::0::1::::<>Node2D<>::
